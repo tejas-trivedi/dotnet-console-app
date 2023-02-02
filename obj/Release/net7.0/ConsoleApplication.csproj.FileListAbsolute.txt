@@ -1,0 +1,15 @@
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\ConsoleApplication.exe
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\ConsoleApplication.deps.json
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\ConsoleApplication.runtimeconfig.json
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\ConsoleApplication.dll
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\ConsoleApplication.pdb
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.dll
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\refint\ConsoleApplication.dll
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.pdb
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\obj\Release\net7.0\ref\ConsoleApplication.dll

@@ -1,0 +1,5 @@
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\publish\ConsoleApplication.exe
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\publish\ConsoleApplication.dll
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\publish\ConsoleApplication.deps.json
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\publish\ConsoleApplication.runtimeconfig.json
+C:\Users\tejas.trivedi_oncehu\Projects\ConsoleApplication\bin\Release\net7.0\publish\ConsoleApplication.pdb
